@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/save" android:enabled="true" android:showAsAction="ifRoom" android:visible="true" 
+        android:icon="@drawable/ic_action_save"
+        
+        android:title="@string/save"></item>
+     <item android:id="@+id/open" android:enabled="true" android:showAsAction="ifRoom" android:visible="true" android:title="@string/open"
+          android:icon="@drawable/ic_action_search"
+         ></item>
+ 
+
+</menu>
